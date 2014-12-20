@@ -1,0 +1,12 @@
+{
+    "name": "asapo/backup-bundle",
+    "require": {
+        "symfony/process": "2.6.*"
+    },
+    "authors": [
+        {
+            "name": "Wachter Johannes",
+            "email": "johannes.wachter@massiveart.at"
+        }
+    ]
+}
